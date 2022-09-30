@@ -1,4 +1,4 @@
-# Hello
+# Salut!
 
 I'm a Tech Lead and Product Strategist with over 20 years experience
 
@@ -37,3 +37,19 @@ In case you're interested in the technologies that I'm familiar with
 * Mobile application development using Xamarin
 * PHP, but only in an emergency these days
 
+## But wait, there's more!
+
+It's always nice to have some things to start a conversation with
+
+### Voluntary work
+
+I've been the Digital Director of a charity called the Amita Buddha Centre since August 2020, and work closely with them on all aspects of their product strategy. That ranges from building and maintaining their website at https://amitabuddhacentre.org.uk (built in Umbraco 8, go take a look), handling their CRM requirements using HubSpot, and looking at how we can most effectively use the digital space to communicate the charity's message.
+
+### Fun facts
+
+* I'm a Lord of the Principality of Sealand
+* I'm a qualified therapist and life coach, so happy to talk about any personal problems you're going through. But I will invoice you afterwards.
+* I run a wellbeing and mentoring organisation called [Fruitful Success](https://fruitfulsuccess.com).
+* I'm a practising Buddhist, and have taken refuge with His Holiness Khenchen Lama Rinpoche. I only wear robes on special occasions though - I feel they're a bit dramatic for an office environment.
+* I have a podcast called *The State of Mind*, where I talk to people about mental health things. Go give it a listen - https://open.spotify.com/show/1yyZ9oUA1hQgjFVePal5Xn
+* I write on Substack about mental health and my personal journey of (supposed) self-improvement, which you can find here https://theobservingi.substack.com/
