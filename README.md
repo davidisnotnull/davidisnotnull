@@ -15,6 +15,7 @@ Over the past 20 years, I've had the pleasure of working with some fantastic cli
 
 Some of my clients include:
 
+* Nexer Group
 * Primark
 * Houses of Parliament
 * The NHS
