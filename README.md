@@ -42,12 +42,6 @@ In case you're interested in the technologies that I'm familiar with
 
 It's always nice to have some things to start a conversation with
 
-### Voluntary work
-
-I've been the Digital Director of a charity called the Amita Buddha Centre since August 2020, and work closely with them on all aspects of their product strategy. That ranges from building and maintaining their website at https://amitabuddhacentre.org.uk (built in Umbraco 8, go take a look), handling their CRM requirements using HubSpot, and looking at how we can most effectively use the digital space to communicate the charity's message.
-
-### Fun facts
-
 * I'm a Lord of the Principality of Sealand
 * I'm a qualified therapist and life coach, so happy to talk about any personal problems you're going through. But I will invoice you afterwards.
 * I run a wellbeing and mentoring organisation called [Fruitful Success](https://fruitfulsuccess.com).
