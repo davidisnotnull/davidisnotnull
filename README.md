@@ -1,6 +1,6 @@
 # Salut!
 
-I'm a Tech Lead and Product Strategist with over 20 years experience
+I'm a Tech Lead and Product Strategist with over 2 decades of experience
 
 I've built applications in **Umbraco**, **Optimizely**, **Drupal**, and **Wordpress**, and old rogues like DotNetNuke and Immediacy. 
 I've even made some sites in SharePoint, but I don't like to talk about it. 
