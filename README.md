@@ -44,7 +44,7 @@ It's always nice to have some things to start a conversation with
 
 * I'm a Lord of the Principality of Sealand
 * I'm a qualified therapist and life coach, so happy to talk about any personal problems you're going through. But I will invoice you afterwards.
-* I run a wellbeing and mentoring organisation called [Fruitful Success](https://fruitfulsuccess.com).
+* I run a Meditation School called [Maitri Meditation School](https://www.maitrimeditationschool.org).
 * I'm a practising Buddhist, and have taken refuge with His Holiness Khenchen Lama Rinpoche. I only wear robes on special occasions though - I feel they're a bit dramatic for an office environment.
-* I have a podcast called *The Observing I*, where I talk about mental health things and self-development. Go give it a listen - [https://open.spotify.com/show/1yyZ9oUA1hQgjFVePal5Xn](https://open.spotify.com/show/1pZOApzbayt5RzGV3XTqL6)
-* I write on Substack about mental health and my personal journey of (supposed) self-improvement, which you can find here https://theobservingi.substack.com/
+* I have a podcast called *The Observing I*, where I talk about philosophy, psychology, and the human condition. Go give it a listen on [Substack](https://theobservingi.substack.com/)
+* I like the Oxford comma (see above)
