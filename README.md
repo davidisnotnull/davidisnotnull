@@ -11,7 +11,7 @@ Most of all, I am **bold** in my thinking, and listen closely to my heart.
 
 ## A bit about me
 
-Over the past 20 years, I've had the pleasure of working with some fantastic clients, and some fantastic people.
+Over the past 2 and a half decades, I've had the pleasure of working with some fantastic clients, and some fantastic people.
 
 Some of my clients include:
 
