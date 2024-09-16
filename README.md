@@ -1,11 +1,10 @@
 # Salut!
 
-I'm a Tech Lead and Product Strategist with over 2 decades of experience
+I'm a **Technology Consultant** and **Product Strategist** with over two decades of experience. 
 
-I've built applications in **Umbraco**, **Optimizely**, **Drupal**, and **Wordpress**, and old rogues like DotNetNuke and Immediacy. 
-I've even made some sites in SharePoint, but I don't like to talk about it. 
+I offer extensive expertise across a wide range of technologies and product solutions, supported by my understanding of people and their needs.
 
-I’ve advised clients such as Primark, the Houses of Parliament, Dixons, the NHS, BP, and New Balance on their technical and digital strategies.
+I’ve advised clients such as Primark, the Houses of Parliament, the Ministry of Justice, Dixons, the NHS, BP and New Balance on their product strategy and technical solutions.
 
 Most of all, I am **bold** in my thinking, and listen closely to my heart.
 
@@ -42,11 +41,12 @@ In case you're interested in the technologies that I'm familiar with
 
 ## But wait, there's more!
 
-It's always nice to have some things to start a conversation with
+It's always nice to have some things to start a conversation with.
 
 * I'm a Lord of the Principality of Sealand
-* I'm a qualified therapist and life coach, so happy to talk about any personal problems you're going through. But I will invoice you afterwards.
-* I run a Meditation School called [Maitri Meditation School](https://www.maitrimeditationschool.org).
+* I'm a qualified therapist with a few hundred hours of client contact time, so happy to talk about any personal problems you're going through. Be warned, I will invoice you afterwards.
+* I run a Meditation School called [Maitri Meditation School](https://maitrimeditationschool.org).
 * I'm a practising Buddhist, and have taken refuge with His Holiness Khenchen Lama Rinpoche. I only wear robes on special occasions though - I feel they're a bit dramatic for an office environment.
-* I have a podcast called *The Observing I*, where I talk about philosophy, psychology, and the human condition. Go give it a listen on [Substack](https://theobservingi.substack.com/)
+* I've written a book on philosophy and psychology that you can [buy on Amazon](https://www.amazon.co.uk/Observing-Guide-Living-More-Authentic-ebook/dp/B0D54FV5D5/)
+* I have a podcast called *The Observing I*, where I talk about philosophy, psychology, and the human condition. [Go give it a listen](https://patreon.com/theobservingi/)
 * I like the Oxford comma (see above)
