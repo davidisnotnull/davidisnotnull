@@ -45,7 +45,7 @@ It's always nice to have some things to start a conversation with.
 
 * I'm a Lord of the Principality of Sealand
 * I'm a qualified therapist with a few hundred hours of client contact time, so happy to talk about any personal problems you're going through. Be warned, I will invoice you afterwards.
-* I run a Meditation School called [Maitri Meditation School](https://maitrimeditationschool.org).
+* I have a tech blog called [Sorry, I broke production](https://sorryibrokeproduction.com). Think of it as tales from the trenches.
 * I'm a practising Buddhist, and have taken refuge with His Holiness Khenchen Lama Rinpoche. I only wear robes on special occasions though - I feel they're a bit dramatic for an office environment.
 * I've written a book on philosophy and psychology that you can [buy on Amazon](https://www.amazon.co.uk/Observing-Guide-Living-More-Authentic-ebook/dp/B0D54FV5D5/)
 * I have a podcast called *The Observing I*, where I talk about philosophy, psychology, and the human condition. [Go give it a listen](https://patreon.com/theobservingi/)
